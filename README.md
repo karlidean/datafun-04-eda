@@ -6,3 +6,5 @@ Data Analytics Fundamentals - Week 4 Project
 3. Added `.gitignore` and `requirements.txt` to my repository.
    1. Included contents from example repository from Dr. Case.
 4. Add - Commit - Push
+5. Added and activated my virtual environment (`.venv`).
+6. Add - Commit - Push
