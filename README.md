@@ -27,3 +27,16 @@ Data Analytics Fundamentals - Week 4 Project
 ## Notebook Nomenclature
 1. Renamed `testdrive.ipynb` to `karlidean_eda.ipynb`
 2. Add - Commit - Push
+
+## Module 4: Learn Jupyter and EDA
+Task: Complete First Two Pieces of EDA project (Guided EDA)
+1. Altered my header to include my name, objective, and the date
+2. Made headers for my sections on "Imports" and "Loading the Data"
+3. Imported packages from the Python Standard Library
+   1. pandas
+   2. seaborn
+   3. matplotlib
+   4. Axes
+4. Loaded the Iris Dataset into a pandas DataFrame
+   1. Also listed the column names and inspected the head of the DataFrame
+5. Add - Commit - Push
