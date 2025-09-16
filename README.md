@@ -19,14 +19,10 @@ Data Analytics Fundamentals - Week 4 Project
 1. Clicked File (Upper Left) > New File > Selected Jupyter Notebook in Dropdown Menu
 2. Input my data for this beginning assignment from the Canvas directions.
    1. This would be my header and beginning imports (pandas)
-3. Saved the `.ipynb` to the repo locally as `testdrive.ipynb` because that's what the book (p.26) says to call it.
+3. Saved the `.ipynb` to the repo locally as `TestDrive.ipynb` because that's what the book (p.26) says to call it.
 4. Selected "Run all" to test my Jupyter Notebook
    1. It was a success!
 5. Add - Commit - Push
-
-## Notebook Nomenclature
-1. Renamed `testdrive.ipynb` to `karlidean_eda.ipynb`
-2. Add - Commit - Push
 
 ## Module 4: Learn Jupyter and EDA
 Task: Complete First Two Pieces of EDA project (Guided EDA)
