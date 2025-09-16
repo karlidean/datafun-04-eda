@@ -23,3 +23,7 @@ Data Analytics Fundamentals - Week 4 Project
 4. Selected "Run all" to test my Jupyter Notebook
    1. It was a success!
 5. Add - Commit - Push
+
+## Notebook Nomenclature
+1. Renamed `testdrive.ipynb` to `karlidean_eda.ipynb`
+2. Add - Commit - Push
