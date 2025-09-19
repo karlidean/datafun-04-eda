@@ -36,3 +36,9 @@ Task: Complete First Two Pieces of EDA project (Guided EDA)
 4. Loaded the Iris Dataset into a pandas DataFrame
    1. Also listed the column names and inspected the head of the DataFrame
 5. Add - Commit - Push
+
+## Completing the Steps from the Example
+1. Upon completing the scripting pieces, I went back and annotated my work
+2. I added pictures and a more story-driven timeline (Almost like a talk-show)
+   1. That's how I like to write because then when I read it, it's like someone is explaining it to me!
+3. Add - Commit - Push
